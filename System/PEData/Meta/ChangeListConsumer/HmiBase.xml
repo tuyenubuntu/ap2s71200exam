@@ -7,6 +7,7 @@
             <ConsumedObject name="Siemens.Simatic.AlarmServices.Model.TextLists.GlobalProxyTextListData" filter="False" resolveTextualReference="False" />
             <ConsumedObject name="Siemens.Simatic.AlarmServices.Model.TextLists.StringTextListData" filter="False" resolveTextualReference="False" />
             <ConsumedObject name="Siemens.Simatic.AlarmServices.ObjectFrame.Private.SimpleControllerAlarmData" filter="False" resolveTextualReference="False" />
+            <ConsumedObject name="Siemens.Simatic.Hmi.DL.ParameterControl.ParameterSetTypeData" filter="False" resolveTextualReference="False" />
             <ConsumedObject name="Siemens.Simatic.Hmi.Utah.Common.Base.HmiBaseBL" filter="False" resolveTextualReference="False">
                 <Interface name="Siemens.Automation.ObjectFrame.ICoreAttributes">
                     <IncludeProperty name="Author" />
